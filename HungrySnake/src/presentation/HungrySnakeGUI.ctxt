@@ -1,0 +1,25 @@
+#BlueJ class context
+#Fri Oct 30 17:37:40 COT 2026
+comment0.target=HungrySnakeGUI
+comment1.target=HungrySnakeGUI()
+comment10.target=void openFile()
+comment11.target=void saveFile()
+comment12.target=void prepareControllerClose()
+comment13.params=e
+comment13.target=void windowClosing(java.awt.event.WindowEvent)
+comment14.target=void changeFoodColor()
+comment15.params=message
+comment15.target=void showMessage(java.lang.String)
+comment16.target=void confirmClose()
+comment17.params=args
+comment17.target=void main(java.lang.String[])
+comment2.target=void prepareView()
+comment3.target=void prepareViewBoard()
+comment4.target=void refresh()
+comment5.target=int[][] createDefaultBoard()
+comment6.params=b row col length horizontal
+comment6.target=void addWall(int[][], int, int, int, boolean)
+comment7.target=void prepareViewMenu()
+comment8.target=void prepareController()
+comment9.target=void prepareControllerMenu()
+numComments=18
